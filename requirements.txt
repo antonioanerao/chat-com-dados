@@ -1,0 +1,8 @@
+jupyter
+html5lib
+torch
+langchain
+pinecone-client
+python-dotenv
+sentence_transformers
+huggingface_hub
